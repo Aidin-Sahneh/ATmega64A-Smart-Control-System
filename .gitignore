@@ -1,0 +1,33 @@
+# CodeVisionAVR / C build output
+Debug/
+*.o
+*.obj
+*.lst
+*.map
+*.bak
+*.#*
+*.eep
+*.hex
+*.rom
+*.cof
+*.elf
+*.dbg
+*.aws
+*.sfr
+*.atsln
+*.c~
+*.cbi
+*.cci
+*.cwp
+*.fct
+*.prj
+*.prj~
+
+# Proteus simulation & backup files
+Project Backups/
+*.DSN.BAK
+*.PDS.BAK
+*.LOG
+*.DAT
+*.TXT
+*.pdspri.LAPTOP-*
