@@ -5,7 +5,6 @@ This is the final project for the "Digital Systems 2 Lab" course (Student ID: 40
 
 The project is a comprehensive smart control system built around the **ATmega64A microcontroller** and simulated in **Proteus**. It features a real-time status display, remote control via a simulated Bluetooth (UART) connection, and various sensor integrations.
 
-*(Note: Add a screenshot of the schematic from your report to the `docs/media` folder)*
 
 Features
 --------
